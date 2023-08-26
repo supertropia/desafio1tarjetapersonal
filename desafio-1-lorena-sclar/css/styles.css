@@ -1,0 +1,43 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Phudu:wght@500&display=swap');
+
+
+
+*,
+::before,
+::after{
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+
+    font-size: 62,5%;
+}
+
+h1 {
+    margin-left: 15em;
+    font-family:'Phudu', cursive; 
+}
+section{
+
+font-family: 'Poppins', sans-serif;
+font-size: 1em;
+}
+
+
+article {
+    padding-left: 20em;
+    margin: 4em, 4em, 4em, 4em;
+    border-radius: 3px solid black;
+}
+
+img {
+
+    width: 30em;
+    height:30em;
+}
