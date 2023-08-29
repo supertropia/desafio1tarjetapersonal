@@ -17,11 +17,29 @@
 html{
 
     font-size: 62,5%;
+    
 }
 
+body { 
+
+    padding: 5em;
+}
+p{
+    border-radius: 5px solid black;
+    
+  
+}
 h1 {
-    margin-left: 15em;
+    border-radius: 12px;
+    margin-left: 10.8em;
     font-family:'Phudu', cursive; 
+    font-size: 2em;
+    border-top: 3px solid black;
+    border-left: 4px solid black;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    display: inline;
+    margin-bottom: 2em;
 }
 section{
 
@@ -37,7 +55,29 @@ article {
 }
 
 img {
+    border-radius: 20px;
+    /* border-top: 4px solid black; */
+    border-left: 4px solid black;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    width : auto;
+    height:20em;
+    /* margin-right: 20em;
+    margin-left: center; */
+   
+}
 
-    width: 30em;
-    height:30em;
+.descripcion{
+    border-top: 6px solid black;
+    border-left: 6px solid black;
+    border-bottom: 6px solid black;
+    border-right: 6px solid black;
+    margin: 10 em;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-bottom: 2em;
+    display: inline-block  ;
+      /* margin-right: 20em;
+    margin-left: center; */
+    border-radius: 12px;
 }
